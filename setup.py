@@ -18,7 +18,7 @@ setup(
         ]
     },
     author="Melissa Jade Mitchell",
-    description="A package for performing hydration analysis",
+    description="Advanced molecular analysis tools for molecular dynamics simulations.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/melissajadem/imani",
